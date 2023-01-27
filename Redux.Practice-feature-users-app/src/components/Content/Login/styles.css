@@ -1,0 +1,22 @@
+.login_block {
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login_block input {
+    max-width: 400px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.login_block button {
+    max-width: 420px;
+    width: 100%;
+    background-color: #213547;
+    color: white;
+    padding: 20px 0;
+    margin-top: 20px;
+}
